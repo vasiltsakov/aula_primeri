@@ -1,0 +1,6 @@
+D:\Learning\C# Projects\Aula\aula_primeri\Modul2\ReadFromCommandLine\bin\Debug\ReadFromCommandLine.exe.config
+D:\Learning\C# Projects\Aula\aula_primeri\Modul2\ReadFromCommandLine\bin\Debug\ReadFromCommandLine.exe
+D:\Learning\C# Projects\Aula\aula_primeri\Modul2\ReadFromCommandLine\bin\Debug\ReadFromCommandLine.pdb
+D:\Learning\C# Projects\Aula\aula_primeri\Modul2\ReadFromCommandLine\obj\Debug\ReadFromCommandLine.csprojResolveAssemblyReference.cache
+D:\Learning\C# Projects\Aula\aula_primeri\Modul2\ReadFromCommandLine\obj\Debug\ReadFromCommandLine.exe
+D:\Learning\C# Projects\Aula\aula_primeri\Modul2\ReadFromCommandLine\obj\Debug\ReadFromCommandLine.pdb
