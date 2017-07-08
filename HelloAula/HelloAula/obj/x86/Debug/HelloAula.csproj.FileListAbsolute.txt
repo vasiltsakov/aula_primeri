@@ -1,11 +1,5 @@
 D:\Learning\C# Projects\Aula\aula_primeri\HelloAula\HelloAula\bin\Debug\HelloAula.exe
 D:\Learning\C# Projects\Aula\aula_primeri\HelloAula\HelloAula\bin\Debug\HelloAula.pdb
-D:\Learning\C# Projects\Aula\aula_primeri\HelloAula\HelloAula\bin\Debug\mscorlib.dll
-D:\Learning\C# Projects\Aula\aula_primeri\HelloAula\HelloAula\bin\Debug\normidna.nlp
-D:\Learning\C# Projects\Aula\aula_primeri\HelloAula\HelloAula\bin\Debug\normnfc.nlp
-D:\Learning\C# Projects\Aula\aula_primeri\HelloAula\HelloAula\bin\Debug\normnfd.nlp
-D:\Learning\C# Projects\Aula\aula_primeri\HelloAula\HelloAula\bin\Debug\normnfkc.nlp
-D:\Learning\C# Projects\Aula\aula_primeri\HelloAula\HelloAula\bin\Debug\normnfkd.nlp
 D:\Learning\C# Projects\Aula\aula_primeri\HelloAula\HelloAula\obj\x86\Debug\HelloAula.csprojResolveAssemblyReference.cache
 D:\Learning\C# Projects\Aula\aula_primeri\HelloAula\HelloAula\obj\x86\Debug\HelloAula.exe
 D:\Learning\C# Projects\Aula\aula_primeri\HelloAula\HelloAula\obj\x86\Debug\HelloAula.pdb

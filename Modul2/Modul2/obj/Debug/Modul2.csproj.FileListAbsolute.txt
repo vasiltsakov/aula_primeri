@@ -1,0 +1,6 @@
+D:\Learning\C# Projects\Aula\aula_primeri\Modul2\Modul2\bin\Debug\Modul2.exe.config
+D:\Learning\C# Projects\Aula\aula_primeri\Modul2\Modul2\bin\Debug\Modul2.exe
+D:\Learning\C# Projects\Aula\aula_primeri\Modul2\Modul2\bin\Debug\Modul2.pdb
+D:\Learning\C# Projects\Aula\aula_primeri\Modul2\Modul2\obj\Debug\Modul2.csprojResolveAssemblyReference.cache
+D:\Learning\C# Projects\Aula\aula_primeri\Modul2\Modul2\obj\Debug\Modul2.exe
+D:\Learning\C# Projects\Aula\aula_primeri\Modul2\Modul2\obj\Debug\Modul2.pdb
