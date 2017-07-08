@@ -33,6 +33,25 @@ namespace Modul2
             Console.WriteLine(a);
             Console.Write("b = ");
             Console.WriteLine(b);
+
+            //Събиране на a и b
+            a += b;
+            Console.WriteLine("\nСъбиране на a и b с a += b: ");
+            Console.WriteLine("a = " + a);
+
+            //Изваждане на b от a
+            a -= b;
+            Console.WriteLine("\nИзваждане на b от a с a -= b: ");
+            Console.WriteLine("a = " + a+"\n\n");
+
+            //Делене
+            int aDel = a;
+            int bDel = b;
+
+            Console.WriteLine("a = " + aDel);
+            Console.WriteLine("b = " + bDel);
+            Console.WriteLine("\nСтандартно делене: "+aDel/bDel);
+            Console.WriteLine("Остатък: " + aDel % bDel);
         }
     }
 }
