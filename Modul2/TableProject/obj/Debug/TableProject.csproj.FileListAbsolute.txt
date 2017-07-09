@@ -1,0 +1,5 @@
+D:\Learning\C# Projects\Aula\aula_primeri\Modul2\TableProject\bin\Debug\TableProject.exe.config
+D:\Learning\C# Projects\Aula\aula_primeri\Modul2\TableProject\bin\Debug\TableProject.exe
+D:\Learning\C# Projects\Aula\aula_primeri\Modul2\TableProject\bin\Debug\TableProject.pdb
+D:\Learning\C# Projects\Aula\aula_primeri\Modul2\TableProject\obj\Debug\TableProject.exe
+D:\Learning\C# Projects\Aula\aula_primeri\Modul2\TableProject\obj\Debug\TableProject.pdb
