@@ -1,0 +1,6 @@
+D:\Learning\C# Projects\Aula\aula_primeri\Modul2\Tasks\bin\Debug\Tasks.exe.config
+D:\Learning\C# Projects\Aula\aula_primeri\Modul2\Tasks\bin\Debug\Tasks.exe
+D:\Learning\C# Projects\Aula\aula_primeri\Modul2\Tasks\bin\Debug\Tasks.pdb
+D:\Learning\C# Projects\Aula\aula_primeri\Modul2\Tasks\obj\Debug\Tasks.csprojResolveAssemblyReference.cache
+D:\Learning\C# Projects\Aula\aula_primeri\Modul2\Tasks\obj\Debug\Tasks.exe
+D:\Learning\C# Projects\Aula\aula_primeri\Modul2\Tasks\obj\Debug\Tasks.pdb
