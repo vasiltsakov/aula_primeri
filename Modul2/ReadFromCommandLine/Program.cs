@@ -21,6 +21,21 @@ namespace ReadFromCommandLine
 
             //Печат на резултата
             Console.WriteLine("Сбора от числата е: " + (a + b).ToString());
+
+            string text = "1";
+            text += ", 2";
+            text += ", 100";
+            text += ", 4";
+            text += ", 5";
+            text += ", 6";
+            text += ", 7";
+
+            Console.WriteLine("\nСъбиране с +=: " + text + "\n");
+            text = text.Replace(", ", ";");
+            Console.WriteLine("Работа с Replace: " + text + "\n");
+            Console.WriteLine("3ти знак: " + text.Split(';')[2] + "\n");
+
+
             Console.ReadKey();
         }
     }
