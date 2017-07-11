@@ -3,3 +3,4 @@ D:\Learning\C# Projects\Aula\aula_primeri\Modul2\TableProject\bin\Debug\TablePro
 D:\Learning\C# Projects\Aula\aula_primeri\Modul2\TableProject\bin\Debug\TableProject.pdb
 D:\Learning\C# Projects\Aula\aula_primeri\Modul2\TableProject\obj\Debug\TableProject.exe
 D:\Learning\C# Projects\Aula\aula_primeri\Modul2\TableProject\obj\Debug\TableProject.pdb
+D:\Learning\C# Projects\Aula\aula_primeri\Modul2\TableProject\obj\Debug\TableProject.csprojResolveAssemblyReference.cache
