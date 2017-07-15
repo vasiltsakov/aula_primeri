@@ -11,7 +11,7 @@ namespace Modul3
         static void Main(string[] args)
         {
             double a = 0, b = 0, c = 0;
-            string _format = "#0.00 USD";
+            string _format = "#0.00";
 
             Console.Write("> а = "); a = Convert.ToDouble(Console.ReadLine());
             Console.Write("> b = "); b = Convert.ToDouble(Console.ReadLine());
